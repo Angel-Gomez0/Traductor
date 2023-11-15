@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\bin\Debug\net7.0\Traductor.exe
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\bin\Debug\net7.0\Traductor.deps.json
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\bin\Debug\net7.0\Traductor.runtimeconfig.json
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\bin\Debug\net7.0\Traductor.dll
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\bin\Debug\net7.0\Traductor.pdb
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.dll
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\refint\Traductor.dll
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.pdb
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\Traductor.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documents\Angel\Curso .NET\Traductor\obj\Debug\net7.0\ref\Traductor.dll
